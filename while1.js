@@ -48,7 +48,7 @@ let k = 1
 
 while (k <= 100) {
     
-if (g / k == g && g / 1 == k && g % k == 0){
+if (g / k == g && g / 1 == k'' && g % k == 0){
     console.log(g + " Não É um Numero Primo");     
 }if (){
 
