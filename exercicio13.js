@@ -8,7 +8,7 @@ list = [ano];
 if (ano % 400 === 0 || ano % 4 === 0 && ano % 100 != 0){
     console.log("O Ano ", ano, "é Bissexto ");
 }else{
-    console.log("O Ano ", ano, "Não é Bissexto ");
+    console.log("O Ano",ano , "Não é Bissexto ");
 }
 
 
